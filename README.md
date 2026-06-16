@@ -1,3 +1,8 @@
+Journal 5: ~1hr 30mins
+Routed all of the paths, fixed some errors, and the pcb is ready. I had to reroute twice cause the paths were colliding. Routing had taken a lot of time, because I had to connect each of them individually.
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/3dfdf15f-7214-49f8-94f0-473f194a7094" />
+
+
 Journal 4: ~1hr 30mins
 
 Added all of diodes - it was extremely time consuming as I had to place them individually. Also, I have started making the basic routes.
