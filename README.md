@@ -1,3 +1,9 @@
+Journal 4: ~1hr 30mins
+
+Added all of diodes - it was extremely time consuming as I had to place them individually. Also, I have started making the basic routes.
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/05a788f3-45d0-4a4a-92e3-7a4b52298709" />
+
+
 Journal 3: ~1hr
 
 So I remade the pcb as it got corrupted the last time. This time it took way less time as compared to the previous version as I already knew things that i should have done earlier - for example i should have named the components by there key for easier positioning and whatnot.
