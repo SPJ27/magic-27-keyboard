@@ -1,4 +1,8 @@
-# magic-27-keyboard
+Journal 3: ~1hr
+
+So I remade the pcb as it got corrupted the last time. This time it took way less time as compared to the previous version as I already knew things that i should have done earlier - for example i should have named the components by there key for easier positioning and whatnot.
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/03c9574f-cc35-4bd6-bab9-fffc214cb3c4" />
+
 
 Journal 2: ~3hrs 30mins
 
