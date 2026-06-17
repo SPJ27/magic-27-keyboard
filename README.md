@@ -1,3 +1,8 @@
+# Magic 27
+
+Magic 27 is a aula f75 style keyboard designed completely from scrartch. It uses marbastlib, akko creamy blue switches, and 3d printed case.
+I am building this because I wanted to make my own keyboard rather than buying premade ones. From this project, I learned skills such as cad designing, pcb designing, and a lot about mechanical keyboards.
+
 Journal 5: ~3hrs
 Completed the project! I designed the case, and also added the 3d models for different keys. Designing the case took a lot of time, and i have only designed the bottom holder for now. In, future, I will make the top cover if needed.
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/412e337a-e8bd-4dea-a020-2957810368d3" />
