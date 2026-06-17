@@ -1,3 +1,8 @@
+Journal 5: ~3hrs
+Completed the project! I designed the case, and also added the 3d models for different keys. Designing the case took a lot of time, and i have only designed the bottom holder for now. In, future, I will make the top cover if needed.
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/412e337a-e8bd-4dea-a020-2957810368d3" />
+
+
 Journal 5: ~1hr 30mins
 Routed all of the paths, fixed some errors, and the pcb is ready. I had to reroute twice cause the paths were colliding. Routing had taken a lot of time, because I had to connect each of them individually.
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/3dfdf15f-7214-49f8-94f0-473f194a7094" />
